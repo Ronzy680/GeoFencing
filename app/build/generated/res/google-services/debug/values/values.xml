@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">663177046054-r48a7v9lfu48mu7i0kffsbn2n48opfql.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://geofencing-382222-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">663177046054</string>
+    <string name="google_api_key" translatable="false">AIzaSyAixiz93vv5RUW-ceRsjTSJJudLhBvdw3s</string>
+    <string name="google_app_id" translatable="false">1:663177046054:android:6c403a8325ac5a6ba7dee7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAixiz93vv5RUW-ceRsjTSJJudLhBvdw3s</string>
+    <string name="google_storage_bucket" translatable="false">geofencing-382222.appspot.com</string>
+    <string name="project_id" translatable="false">geofencing-382222</string>
+</resources>
